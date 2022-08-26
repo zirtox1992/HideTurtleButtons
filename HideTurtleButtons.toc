@@ -1,0 +1,6 @@
+## Interface: 12000
+## Title: HideTurtleButtons
+## Notes: Removes Turtle minimap buttons and also shapeshift bar
+## Author: Trckster
+
+HideTurtleButtons.lua
